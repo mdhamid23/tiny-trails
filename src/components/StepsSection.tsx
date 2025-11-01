@@ -35,7 +35,7 @@ export default function StepsSection() {
             <p className="text-lg">
               Download the{" "}
               <a href="#" className="text-blue-500 font-semibold underline">
-                Findmykids
+                TinyTrails
               </a>{" "}
               app on your smartphone
             </p>
@@ -130,7 +130,7 @@ export default function StepsSection() {
                       <span className="text-xl">🎁</span>
                     </div>
                     <p className="text-gray-700">
-                      All benefits of the Findmykids app subscription as a gift
+                      All benefits of the TinyTrails app subscription as a gift
                       forever
                     </p>
                   </div>

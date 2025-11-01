@@ -90,7 +90,7 @@ export default function HeroSection() {
             <div className="relative z-10 rounded-3xl overflow-hidden shadow-2xl">
               <Image
                 src="https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=800&h=600&fit=crop"
-                alt="Parents using Findmykids app"
+                alt="Parents using TinyTrails app"
                 width={600}
                 height={500}
                 className="w-full"

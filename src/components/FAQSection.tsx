@@ -12,12 +12,12 @@ export default function FAQSection() {
     {
       question: "How to set GPS Tracker for my family's devices?",
       answer:
-        "Download the Findmykids app on your smartphone, then install the Pingo app on your child's phone or connect a GPS watch. Follow the simple setup wizard in the app to link the devices together. It takes only 5 minutes!",
+        "Download the TinyTrails app on your smartphone, then install the Pingo app on your child's phone or connect a GPS watch. Follow the simple setup wizard in the app to link the devices together. It takes only 5 minutes!",
     },
     {
-      question: "What devices are supported by the Findmykids app?",
+      question: "What devices are supported by the TinyTrails app?",
       answer:
-        "Findmykids works on iOS (iPhone, iPad) and Android smartphones and tablets. You can track Android and iOS phones, as well as compatible GPS watches.",
+        "TinyTrails works on iOS (iPhone, iPad) and Android smartphones and tablets. You can track Android and iOS phones, as well as compatible GPS watches.",
     },
     {
       question: "Can I track my child's location without them knowing?",

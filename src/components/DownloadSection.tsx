@@ -8,7 +8,7 @@ export default function DownloadSection() {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
           <div className="space-y-6">
             <h2 className="text-3xl lg:text-5xl font-bold">
-              Millions of parents worldwide already use the Findmykids app
+              Millions of parents worldwide already use the TinyTrails app
             </h2>
             <p className="text-lg text-gray-700">
               Download the app and worry less about your child

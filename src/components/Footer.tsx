@@ -24,7 +24,7 @@ export default function Footer() {
                 </svg>
               </div>
               <span className="text-xl font-bold text-blue-500">
-                Findmykids
+                TinyTrails
               </span>
             </Link>
 
@@ -200,7 +200,7 @@ export default function Footer() {
               <p className="mt-1">1 Arch Makariou III Avenue,</p>
               <p>1 st Floor, office 101,</p>
               <p>Lakatameia, Nicosia, 2324, Cyprus</p>
-              <p className="mt-2">info@findmykids.org</p>
+              <p className="mt-2">info@TinyTrails.org</p>
             </div>
 
             <div className="text-sm text-gray-600 text-center md:text-right">
